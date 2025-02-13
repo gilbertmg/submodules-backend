@@ -1,0 +1,11 @@
+*.md
+*.js
+*.d.ts
+!.*
+dist
+node_modules
+packages
+.eslintrc.json
+package-lock.json
+package.json
+tsconfig.json
